@@ -1,19 +1,3 @@
 # cla-demo-repo
 
-test
-test
-
-another test
-
-
-Test
-
-
-
-Test
-
-
-Test
-
-
-Test
+testing purposes
